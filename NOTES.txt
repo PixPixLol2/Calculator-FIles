@@ -1,0 +1,3 @@
+this is notes i wanted to make to explain how things are going in my "2-in-1 Java and Python Coding| Year-Long 30-Mins Weekly Programming Class!" its a calculator lol nothing else then that its made with python using tkinter
+
+plan day 1: need to make more functioning buttons learn more about tkinter
